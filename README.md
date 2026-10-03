@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Kamel Hamdi 👋
 
-<!--
-**kamel-hamdi-dev/kamel-hamdi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer focused on building practical software and AI automation solutions.
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning & Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- REST APIs
+- PostgreSQL
+- Git & GitHub
+- AI Automation
+- Workflow Automation
+- Flutter
+
+## 💼 Current Project
+
+### Mamourart Transport Automation
+
+AI-powered transport automation project designed to simplify daily operations for transport companies.
+
+Main goals:
+
+- Process incoming transport emails
+- Extract mission information
+- Organize driver schedules
+- Automate repetitive workflows
+- Build practical tools for real businesses
+
+🔗 Project:
+https://github.com/kamel-hamdi-dev/mamourart-transport-automation
+
+## 🎯 My Goal
+
+I am learning software development by building real-world projects and improving my skills step by step.
+
+## 🔗 Connect with me
+
+LinkedIn:
+https://www.linkedin.com/in/kamel-hamdi-dev
