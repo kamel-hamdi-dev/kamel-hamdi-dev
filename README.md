@@ -28,7 +28,13 @@ Main goals:
 
 🔗 Project:
 https://github.com/kamel-hamdi-dev/mamourart-transport-automation
+## 📊 GitHub Stats
 
+![Kamel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamel-hamdi-dev&show_icons=true&hide_border=true&theme=transparent)
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamel-hamdi-dev&layout=compact&hide_border=true&theme=transparent)
 ## 🎯 My Goal
 
 I am learning software development by building real-world projects and improving my skills step by step.
