@@ -1,45 +1,70 @@
-# Hi, I'm Kamel Hamdi 👋
+# 👋 Hi, I'm Kamel Hamdi
 
-Junior Software Developer focused on building practical software and AI automation solutions.
+**Python & AI Automation Developer | Software Project Lead | Creator of Mamourart | Freelance**
 
-## 🚀 Currently Learning & Building
+I build practical software solutions focused on Python development, intelligent automation, API integration, and business workflow optimization.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST-APIs-blue)
-![AI Automation](https://img.shields.io/badge/AI-Automation-purple)
+Through **Mamourart**, I design, develop, and coordinate personal software projects, using AI-assisted development, automated testing, GitHub workflows, and structured quality checks.
 
-## 💼 Current Project
+## 💼 What I Do
 
-### Mamourart Transport Automation
+- 🐍 Python development and automation scripts
+- 🤖 AI-powered workflow automation
+- 🔗 REST API integration and data processing
+- 🗄️ PostgreSQL and database workflows
+- 🧪 Software testing, debugging, and quality assurance
+- 📋 Software project coordination and AI agent workflows
+- 🌐 Web development and interactive prototypes
 
-AI-powered transport automation project designed to simplify daily operations for transport companies.
+## 🚀 Featured Projects
 
-Main goals:
+### 🌐 Mamourart — Website & Portfolio
+**Status: Published**
 
-- Process incoming transport emails
-- Extract mission information
-- Organize driver schedules
-- Automate repetitive workflows
-- Build practical tools for real businesses
+A bilingual FR/EN website presenting software projects, services, and interactive demonstrations.
 
-🔗 Project:
-https://github.com/kamel-hamdi-dev/mamourart-transport-automation
-## 📊 GitHub Stats
+🔗 [Visit Mamourart](https://mamourart.com) | [GitHub Repository](https://github.com/kamel-hamdi-dev/mamourart-site)
 
-![Kamel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamel-hamdi-dev&show_icons=true&hide_border=true&theme=transparent)
+### 🚚 Mamourart Transport Automation
+**Status: In development**
 
-## 💻 Top Languages
+Python-based tools designed to help automate transport operations, including mission information extraction, driver scheduling, data processing, and database workflows.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamel-hamdi-dev&layout=compact&hide_border=true&theme=transparent)
-## 🎯 My Goal
+🔗 [View Project](https://github.com/kamel-hamdi-dev/mamourart-transport-automation)
 
-I am learning software development by building real-world projects and improving my skills step by step.
+### 🧭 GPS AI & Fret Alerts
+**Status: Concepts and interactive demonstrations**
 
-## 🔗 Connect with me
+Exploring intelligent navigation assistance and freight monitoring solutions.
 
-LinkedIn:
-https://www.linkedin.com/in/kamel-hamdi-dev
+🔗 [GPS AI Demo](https://mamourart.com/gps-ai-demo.html) | [Fret Alerts Demo](https://mamourart.com/fret-alerts-demo.html)
+
+## 🛠️ Technical Skills
+
+**Languages & Web:** Python, HTML, CSS, JavaScript, PHP
+
+**Data & APIs:** PostgreSQL, SQL, REST APIs, CSV processing
+
+**Tools & Methods:** Git, GitHub, automated testing, debugging, AI-assisted development, workflow automation
+
+**Also exploring:** Flutter, Dart, and multi-agent software orchestration
+
+## 🤝 Freelance Collaboration
+
+I'm interested in clearly defined freelance assignments involving:
+
+- Python scripts and repetitive-task automation
+- Data extraction and transformation
+- API integration
+- Bug investigation and software testing
+- Small business automation tools
+
+I work remotely and value clear requirements, transparent communication, and verifiable results.
+
+## 📬 Connect With Me
+
+🌐 **Portfolio:** https://mamourart.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/kamel-hamdi-dev
+
+💻 **GitHub:** https://github.com/kamel-hamdi-dev
